@@ -5,9 +5,9 @@ A simple space simulation in JS.
 
 ### 1 - From a terminal, start an http server in the root directory
 
-php : ```bash php -S localhost:8000 ```
+php : ``` php -S localhost:8000 ```
 
-python3 : ```bash python -m http.server ```
+python3 : ``` python -m http.server ```
 
 
 ### 2 - Open your browser and go to :
