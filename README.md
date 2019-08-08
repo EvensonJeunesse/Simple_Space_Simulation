@@ -6,6 +6,7 @@ A simple space simulation in JS.
 ### 1 - From a terminal, start an http server in the root directory
 
 php : ```bash php -S localhost:8000 ```
+
 python3 : ```bash python -m http.server ```
 
 
